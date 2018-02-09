@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE bixml [
+	<!ENTITY bulgaria SYSTEM "countries/bulgaria.xml">
+	<!ENTITY chile SYSTEM "countries/chile.xml">
+	<!ENTITY georgia SYSTEM "countries/georgia.xml">
+]>
+<countries>
+	&bulgaria;
+	&chile;
+	&georgia;
+</countries>
