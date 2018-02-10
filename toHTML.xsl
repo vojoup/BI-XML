@@ -18,12 +18,12 @@
                 </head>
                 <body>
                     <div class="container">
-                        <div class="navbar navbar-default navbar-static-top">
+                        <div class="navbar navbar-default">
                             <h1>
                                 <xsl:copy-of select="$ttl"></xsl:copy-of>
                             </h1>
                         </div>
-                        <div class="row">
+                        <div class="list-item">
                             <xsl:apply-templates select="country" mode="link"/>
                         </div>
                     </div>
@@ -36,8 +36,8 @@
     </xsl:template>
 
     <xsl:template match="country" mode="link">
-        <div class="col-sm-4 text-center">
-            <a href="{@name}.html" class="btn btn-primary d-inline-block ml-1 mr-1">
+        <div class="nav navbar-nav">
+            <a href="{@name}.html" class="btn btn-primary btn-link">
                 <xsl:value-of select="@name"/>
             </a>
         </div>
@@ -49,7 +49,7 @@
             <html lang="en">
                 <head>
                     <title>
-                        <xsl:value-of select="@name"/>
+                        <xsl:copy-of select="$ttl"></xsl:copy-of> | <xsl:value-of select="@name"/>
                     </title>
                     <xsl:copy-of select="$css-import"/>
                 </head>
