@@ -191,10 +191,8 @@
             </value>
         </property>
     </section>
-    <section>
-        <name>People and Society</name>
-        <property>
-            <name>Population</name>
+    <section name="People and Society">
+        <property name="Population">
             <value>17,789,267 (July 2017 est.)</value>
             <subproperty>
                 <name>country comparison to the world</name>
@@ -236,7 +234,7 @@
                 unspecified 1.1% (2012 est.)
             </value>
         </property>
-        <section>
+        <property>
             <name>Demographic profile</name>
             <value>Chile has historically been a country of emigration but has slowly become more attractive to
                 immigrants since transitioning to democracy in 1990 and improving its economic stability (other regional
@@ -244,492 +242,487 @@
                 Chile's small but growing foreign-born population consists of transplants from other Latin American
                 countries, especially Peru.
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Age structure</name>
-            <section>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>20.11% (male 1,825,254/female 1,751,735)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>15.04% (male 1,364,831/female 1,311,216)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>43.08% (male 3,830,538/female 3,832,989)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>10.96% (male 918,559/female 1,031,153)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>10.81% (male 805,880/female 1,117,112) (2017 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>population pyramid</name>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Dependency ratios</name>
-            <section>
+            <subproperty>
                 <name>total dependency ratio</name>
                 <value>45.5</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>youth dependency ratio</name>
                 <value>30.3</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>elderly dependency ratio</name>
                 <value>15.2</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>potential support ratio</name>
                 <value>6.6 (2015 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Median age</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>34.4 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>33.2 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>35.6 years (2017 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>85</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Population growth rate</name>
             <value>0.77% (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>135</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Birth rate</name>
             <value>13.6 births/1,000 population (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>143</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Death rate</name>
             <value>6.2 deaths/1,000 population (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>155</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Net migration rate</name>
             <value>0.3 migrant(s)/1,000 population (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>66</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Population distribution</name>
             <value>90% of the population is located in the middle third of the country around the capital of Santiago;
                 the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Urbanization</name>
-            <section>
+            <subproperty>
                 <name>urban population</name>
                 <value>89.9% of total population (2017)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>rate of urbanization</name>
                 <value>0.96% annual rate of change (2015-20 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Major urban areas - population</name>
             <value>SANTIAGO (capital) 6.507 million; Valparaiso 907,000; Concepcion 816,000 (2015)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Sex ratio</name>
-            <section>
+            <subproperty>
                 <name>at birth</name>
                 <value>1.04 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>1.04 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>1.04 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>1 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>0.89 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>0.72 male(s)/female</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>0.97 male(s)/female (2016 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Maternal mortality ratio</name>
             <value>22 deaths/100,000 live births (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>128</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Infant mortality rate</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>6.6 deaths/1,000 live births</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>7.1 deaths/1,000 live births</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>6.1 deaths/1,000 live births (2017 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>164</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Life expectancy at birth</name>
-            <section>
+            <subproperty>
                 <name>total population</name>
                 <value>78.9 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>75.9 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>82.1 years (2017 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>51</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Total fertility rate</name>
             <value>1.8 children born/woman (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>152</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Health expenditures</name>
             <value>7.8% of GDP (2014)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>60</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Physicians density</name>
             <value>1.03 physicians/1,000 population (2009)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Hospital bed density</name>
             <value>2.1 beds/1,000 population (2011)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Drinking water source</name>
             <value>total: 1% of population (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Sanitation facility access</name>
             <value>total: 0.9% of population (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>AIDS - adult prevalence rate</name>
             <value>0.5% (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>63</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>AIDS</name>
             <value>61,000 (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>53</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>AIDS - deaths</name>
             <value>NA</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Obesity - adult prevalence rate</name>
             <value>28% (2016)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>32</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Children under the age of 5 years underweight</name>
             <value>0.5% (2014)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>137</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Education expenditures</name>
             <value>4.8% of GDP (2014)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>90</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Literacy</name>
-            <section>
+            <subproperty>
                 <name>definition</name>
                 <value>age 15 and over can read and write</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>97.5%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>97.6%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>97.4% (2015 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>School life expectancy (primary to tertiary education)</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>16 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>16 years</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>17 years (2015)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>youth ages 15-24</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>15.4%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>14.3%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>17% (2015 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>73</value>
-            </section>
-        </section>
+            </subproperty>
+        </property>
     </section>
-    <section>
-        <name>Government</name>
-        <section>
+    <section name="Government">
+        <property>
             <name>Country name</name>
-            <section>
+            <subproperty>
                 <name>conventional long form</name>
                 <value>Republic of Chile</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>conventional short form</name>
                 <value>Chile</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>local long form</name>
                 <value>Republica de Chile</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>local short form</name>
                 <value>Chile</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>etymology</name>
                 <value>derivation of the name is unclear, but it may come from the Mapuche word "chilli" meaning "limit
                     of the earth" or from the Quechua "chiri" meaning "cold"
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Government type</name>
             <value>presidential republic</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Capital</name>
-            <section>
+            <subproperty>
                 <name>name</name>
                 <value>Santiago; note - Valparaiso is the seat of the national legislature</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>geographic coordinates</name>
                 <value>33 27 S, 70 40 W</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>time difference</name>
                 <value>UTC-3 (2 hours ahead of Washington, DC, during Standard Time)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>daylight saving time</name>
                 <value>+1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST
                     throughout the year
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Administrative divisions</name>
             <value>15 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama,
                 Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la
                 Antartica Chilena, Maule, Region Metropolitana (Santiago), Tarapaca, Valparaiso
             </value>
-            <section>
+            <subproperty>
                 <name>note</name>
                 <value>the US does not recognize claims to Antarctica</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Independence</name>
             <value>18 September 1810 (from Spain)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>National holiday</name>
             <value>Independence Day, 18 September (1810)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Constitution</name>
             <value>many previous; latest adopted 11 September 1980, effective 11 March 1981; amended many times, last in
                 2011; note - in late 2015, the Chilean Government initiated a process to reform its constitution (2016)
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Legal system</name>
             <value>civil law system influenced by several West European civil legal systems; judicial review of
                 legislative acts by the Constitutional Tribunal
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>International law organization participation</name>
             <value>has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Citizenship</name>
-            <section>
+            <subproperty>
                 <name>citizenship by birth</name>
                 <value>yes</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>citizenship by descent</name>
                 <value>yes</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>dual citizenship recognized</name>
                 <value>yes</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>residency requirement for naturalization</name>
                 <value>5 years</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Suffrage</name>
             <value>18 years of age; universal</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Executive branch</name>
-            <section>
+            <subproperty>
                 <name>chief of state</name>
                 <value>President Michelle BACHELET Jeria (since 11 March 2014); note - the president is both chief of
                     state and head of government
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>head of government</name>
                 <value>President Michelle BACHELET Jeria (since 11 March 2014)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>cabinet</name>
                 <value>Cabinet appointed by the president</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>appointments</name>
                 <value>president directly elected by absolute majority popular vote in 2 rounds if needed for a single
                     4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (second
                     round) (next to be held November 2021)
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>Sebastian PINERA Echenique elected president in second round; percent of vote in first round -
                     Sebastian PINERA Echenique 36.64%; Alejandro GUILLIER 22.7%; Beatriz SANCHEZ 20.27%; Jose Antonio
                     KAST 7.93%; Carolina GOIC 5.88%; Marco ENRIQUEZ-OMINAMI 5.71%; other 0.87%; percent of second round
                     vote - Sebastian PINERA Echnique 54.6%, Alejandro GUILLIER 45.4%
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Legislative branch</name>
-            <section>
+            <subproperty>
                 <name>description</name>
                 <value>bicameral National Congress or Congreso Nacional consists of the Senate or Senado (38 seats; to
                     increase to 43 on 11 March 2018 and 50 in 2022); members directly elected in multi-seat
@@ -738,14 +731,14 @@
                     11 March 2018; members directly elected in multi-seat constituencies by simple majority vote to
                     serve 4-year terms)
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>elections</name>
                 <value>Senate - last held on 19 November 2017 (next to be held in 2021); Chamber of Deputies - last held
                     on 19 November 2017 (next to be held in 2021)
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known
                     as Concertacion) 19 (DC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the
@@ -754,25 +747,25 @@
                     PPD 14, PC 6, PRSD 6, Citizen Left 1, independents 4), Coalition for Change 47 (UDI 29, RN 14,
                     independents 3, EP 1), Liberal Party 1, independents 4
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>in January 2015, the Chilean Congress voted to end the binomial system that was put in place
                     under Gen. Augusto PINOCHET; the Congress also voted to expand its size (155 seats in the chamber of
                     Deputies and 50 seats in the Senate) and establish rules to ensure that there is equitable gender
                     representation; the new electoral system will be put in place in the November 2017 elections
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Judicial branch</name>
-            <section>
+            <subproperty>
                 <name>highest court(s)</name>
                 <value>Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros);
                     Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>judge selection and term of office</name>
                 <value>Supreme Court president and judges (ministers) appointed by the president of the republic and
                     ratified by the Senate from lists of candidates provided by the court itself; judges appointed for
@@ -784,29 +777,29 @@
                     of the Chamber of Deputies, 2 by the Supreme Court, and 1 by the Appellate Court of Valparasio;
                     members appointed for 4-year terms
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>subordinate courts</name>
                 <value>Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized
                     tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Political parties and leaders</name>
             <value>Progressive Party or PRO [Patricia MORALES]</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Political pressure groups and leaders</name>
             <value>United Labor Central or CUT (includes trade unionists from the country's 5 largest labor
                 confederations)
             </value>
-            <section>
+            <subproperty>
                 <name>other</name>
                 <value>university student federations at all major universities</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>International organization participation</name>
             <value>APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national
                 committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO,
@@ -814,901 +807,895 @@
                 engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP,
                 UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Diplomatic representation in the US</name>
-            <section>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador Juan Gabriel VALDES Soublette (since 21 May 2014)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>chancery</name>
                 <value>1732 Massachusetts Avenue NW, Washington, DC 20036</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[1] (202) 785-1746</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[1] (202) 887-5579</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>consulate(s) general</name>
                 <value>Chicago, Houston, Los Angeles, Miami, New York, San Francisco</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Diplomatic representation from the US</name>
-            <section>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador Carol PEREZ (since 14 November 2016)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>embassy</name>
                 <value>Avenida Andres Bello 2800, Las Condes, Santiago</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>mailing address</name>
                 <value>APO AA 34033</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[56] (2) 2330-3000</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[56] (2) 2330-3710, 2330-3160</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Flag description</name>
             <value>two equal horizontal bands of white (top) and red; a blue square the same height as the white band at
                 the hoist-side end of the white band; the square bears a white five-pointed star in the center
                 representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered
                 Andes, and red represents the blood spilled to achieve independence
             </value>
-            <section>
+            <subproperty>
                 <name>note</name>
                 <value>design influenced by the US flag</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>National symbol(s)</name>
             <value>huemul (mountain deer), Andean condor; national colors: red, white, blue</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>National anthem</name>
-            <section>
+            <subproperty>
                 <name>name</name>
                 <value>"Himno Nacional de Chile" (National Anthem of Chile)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>music</name>
                 <value>Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNICER y Battle</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>music adopted 1828, original lyrics adopted 1818, adapted lyrics adopted 1847; under Augusto
                     PINOCHET"s military rule, a verse glorifying the army was added; however, as a protest, some
                     citizens refused to sing this verse; it was removed when democracy was restored in 1990
                 </value>
-            </section>
-        </section>
+            </subproperty>
+        </property>
     </section>
-    <section>
-        <name>Economy</name>
-        <section>
+    <section name="Economy">
+        <property>
             <name>Economy - overview</name>
             <value>In 2014, President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise
                 to fight inequality and to provide access to education and health care. The reforms are expected to
                 generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to
                 OECD averages.
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>GDP (purchasing power parity)</name>
             <value>$439 billion (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>45</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>GDP (official exchange rate)</name>
             <value>$263.2 billion (2016 est.)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>GDP - real growth rate</name>
             <value>2.3% (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>178</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>GDP - per capita (PPP)</name>
             <value>$24,400 (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>80</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Gross national saving</name>
             <value>21.3% of GDP (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>88</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>by end use</name>
-            <section>
+            <subproperty>
                 <name>household consumption</name>
                 <value>63.9%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>government consumption</name>
                 <value>13.6%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>investment in fixed capital</name>
                 <value>22.2%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>investment in inventories</name>
                 <value>-0.2%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>exports of goods and services</name>
                 <value>28.2%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>imports of goods and services</name>
                 <value>-27.6% (2017 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>by sector of origin</name>
-            <section>
+            <subproperty>
                 <name>agriculture</name>
                 <value>4.4%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>31.4%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>64.3% (2017 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Agriculture - products</name>
             <value>grapes, apples, pears, onions, wheat, corn, oats, peaches, garlic, asparagus, beans; beef, poultry,
                 wool; fish; timber
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Industries</name>
             <value>copper, lithium, other minerals, foodstuffs, fish processing, iron and steel, wood and wood products,
                 transport equipment, cement, textiles
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Industrial production growth rate</name>
             <value>1.4% (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>154</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Labor force</name>
             <value>8.881 million (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>58</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Labor force - by occupation</name>
-            <section>
+            <subproperty>
                 <name>agriculture</name>
                 <value>9.2%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>23.7%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>67.1% (2013)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Unemployment rate</name>
             <value>6.5% (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>100</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Population below poverty line</name>
             <value>14.4% (2013)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Household income or consumption by percentage share</name>
-            <section>
+            <subproperty>
                 <name>lowest 10%</name>
                 <value>1.7%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>highest 10%</name>
                 <value>41.5% (2013 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Distribution of family income - Gini index</name>
             <value>57.1 (2000)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>15</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Budget</name>
-            <section>
+            <subproperty>
                 <name>revenues</name>
                 <value>$56.73 billion</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>expenditures</name>
                 <value>$64.89 billion (2017 est.)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Taxes and other revenues</name>
             <value>21.6% of GDP (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>139</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>) or deficit (-)</name>
             <value>-3.1% of GDP (2017 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>115</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Public debt</name>
             <value>21.3% of GDP (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>177</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Fiscal year</name>
             <value>calendar year</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Inflation rate (consumer prices)</name>
             <value>3.8% (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>106</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Central bank discount rate</name>
             <value>3% (31 December 2014)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>103</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Commercial bank prime lending rate</name>
             <value>5.59% (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>150</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Stock of narrow money</name>
             <value>$44.01 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>54</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Stock of broad money</name>
             <value>$158.3 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>46</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Stock of domestic credit</name>
             <value>$211.6 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>45</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Market value of publicly traded shares</name>
             <value>$265.2 billion (31 December 2013 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>35</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Current account balance</name>
             <value>-$3.528 billion (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>177</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Exports</name>
             <value>$60.6 billion (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>44</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Exports - commodities</name>
             <value>copper, fruit, fish products, paper and pulp, chemicals, wine</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Exports - partners</name>
             <value>China 28.6%, US 14.1%, Japan 8.6%, South Korea 6.9%, Brazil 5% (2016)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Imports</name>
             <value>$55.34 billion (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>47</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Imports - commodities</name>
             <value>petroleum and petroleum products, chemicals, electrical and telecommunications equipment, industrial
                 machinery, vehicles, natural gas
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Imports - partners</name>
             <value>China 24.3%, US 14.7%, Brazil 9.3%, Argentina 4.4%, France 4.2% (2016)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Reserves of foreign exchange and gold</name>
             <value>$40.49 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>44</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Debt - external</name>
             <value>$158.1 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>40</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Stock of direct foreign investment - at home</name>
             <value>$199.8 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>29</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Stock of direct foreign investment - abroad</name>
             <value>$90.54 billion (31 December 2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>36</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Exchange rates</name>
             <value>570.37 (2013 est.)</value>
-        </section>
+        </property>
     </section>
-    <section>
-        <name>Energy</name>
-        <section>
+    <section name="Energy">
+        <property>
             <name>Electricity access</name>
-            <section>
+            <subproperty>
                 <name>population without electricity</name>
                 <value>70,600</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>electrification - total population</name>
                 <value>99.6%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>electrification - urban areas</name>
                 <value>100%</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>electrification - rural areas</name>
                 <value>98% (2012)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - production</name>
             <value>71.66 billion kWh (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>40</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - consumption</name>
             <value>67.95 billion kWh (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>40</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - exports</name>
             <value>0 kWh (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>119</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - imports</name>
             <value>0 kWh (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>133</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - installed generating capacity</name>
             <value>21.64 million kW (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>40</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - from fossil fuels</name>
             <value>60.8% of total installed capacity (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>127</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - from nuclear fuels</name>
             <value>0% of total installed capacity (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>66</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - from hydroelectric plants</name>
             <value>30% of total installed capacity (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>71</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Electricity - from other renewable sources</name>
             <value>16.1% of total installed capacity (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>44</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Crude oil - production</name>
             <value>4,423 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>82</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Crude oil - exports</name>
             <value>0 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>105</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Crude oil - imports</name>
             <value>163,000 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>33</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Crude oil - proved reserves</name>
             <value>150 million bbl (1 January 2017 es)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>64</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Refined petroleum products - production</name>
             <value>215,300 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>50</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Refined petroleum products - consumption</name>
             <value>337,400 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>41</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Refined petroleum products - exports</name>
             <value>4,500 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>96</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Refined petroleum products - imports</name>
             <value>160,900 bbl/day (2016 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>43</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Natural gas - production</name>
             <value>1.008 billion cu m (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>67</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Natural gas - consumption</name>
             <value>5.23 billion cu m (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>63</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Natural gas - exports</name>
             <value>0 cu m (2014 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>83</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Natural gas - imports</name>
             <value>3.727 billion cu m (2015 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>39</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Natural gas - proved reserves</name>
             <value>97.97 billion cu m (1 January 2017 es)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>54</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Carbon dioxide emissions from consumption of energy</name>
             <value>76 million Mt (2013 est.)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>47</value>
-            </section>
-        </section>
+            </subproperty>
+        </property>
     </section>
-    <section>
-        <name>Communications</name>
-        <section>
+    <section name="Communications">
+        <property>
             <name>Telephones - fixed lines</name>
-            <section>
+            <subproperty>
                 <name>total subscriptions</name>
                 <value>3,464,107</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>20 (July 2016 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>44</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Telephones - mobile cellular</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>22,974,289</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>130 (July 2016 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>49</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Telephone system</name>
-            <section>
+            <subproperty>
                 <name>general assessment</name>
                 <value>privatization began in 1988; most advanced telecommunications infrastructure in South America;
                     modern system based on extensive microwave radio relay facilities; domestic satellite system with 3
                     earth stations
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>domestic</name>
                 <value>number of fixed-line connections have stagnated in recent years as mobile-cellular usage
                     continues to increase, reaching 130 telephones per 100 persons
                 </value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>international</name>
                 <value>country code - 56; landing points for the Pan American, South America-1, and South American
                     Crossing/Latin America Nautilus submarine cables providing links to the US and to Central and South
                     America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2016)
                 </value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Broadcast media</name>
             <value>national and local terrestrial TV channels, coupled with extensive cable TV networks; the state-owned
                 Television Nacional de Chile (TVN) network is self-financed through commercial advertising revenues and
                 is not under direct government control; large number of privately owned TV stations; about 250 radio
                 stations (2007)
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Internet country code</name>
             <value>.cl</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Internet users</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>11,650,840</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>percent of population</name>
                 <value>66.0% (July 2016 est.)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>43</value>
-            </section>
-        </section>
+            </subproperty>
+        </property>
     </section>
-    <section>
-        <name>Transportation</name>
-        <section>
+    <section name="Transportation">
+        <property>
             <name>National air transport system</name>
-            <section>
+            <subproperty>
                 <name>number of registered air carriers</name>
                 <value>9</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>inventory of registered aircraft operated by air carriers</name>
                 <value>173</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>annual passenger traffic on registered air carriers</name>
                 <value>15,006,762</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>annual freight traffic on registered air carriers</name>
                 <value>1,392.236 million mt-km (2015)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Civil aircraft registration country code prefix</name>
             <value>CC (2016)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Airports</name>
             <value>481 (2013)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>15</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Airports - with paved runways</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>90</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>5</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>7</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>437 m</name>
                 <value>23</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>523 m</name>
                 <value>31</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>24 (2017)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Airports - with unpaved runways</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>391</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>5</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>437 m</name>
                 <value>11</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>523 m</name>
                 <value>56</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>319 (2013)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Heliports</name>
             <value>1 (2013)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Pipelines</name>
             <value>gas 3,160 km; liquid petroleum gas 781 km; oil 985 km; refined products 722 km (2013)</value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Railways</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>7,281.5 km</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>broad gauge</name>
                 <value>3,428 km 1.676-m gauge (1,691 km electrified)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>narrow gauge</name>
                 <value>3,853.5 km 1.000-m gauge (2014)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>30</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Roadways</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>77,764 km</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>paved</name>
                 <value>18,119 km (includes 2,387 km of expressways)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>unpaved</name>
                 <value>59,645 km (2010)</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>62</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Merchant marine</name>
-            <section>
+            <subproperty>
                 <name>total</name>
                 <value>211</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>by type</name>
                 <value>bulk carrier 10, container ship 5, general cargo 54, oil tanker 12, other 130 (2017)</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Ports and terminals</name>
-            <section>
+            <subproperty>
                 <name>major seaport(s)</name>
                 <value>Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso</value>
-            </section>
-            <section>
+            </subproperty>
+            <subproperty>
                 <name>LNG terminal(s) (import)</name>
                 <value>Mejillones, Quintero</value>
-            </section>
-        </section>
+            </subproperty>
+        </property>
     </section>
-    <section>
-        <name>Military and Security</name>
-        <section>
+    <section name="Military and Security">
+        <property>
             <name>Military expenditures</name>
             <value>2.05% of GDP (2012)</value>
-            <section>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>38</value>
-            </section>
-        </section>
-        <section>
+            </subproperty>
+        </property>
+        <property>
             <name>Military branches</name>
             <value>Chilean Army, Chilean Navy (Armada de Chile, includes Naval Aviation, Marine Corps, and Maritime
                 Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh)
                 (2015)
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Military service age and obligation</name>
             <value>18-45 years of age for voluntary male and female military service, although the right to compulsory
                 recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy
                 and Air Force (2015)
             </value>
-        </section>
+        </property>
     </section>
-    <section>
-        <name>Transnational Issues</name>
-        <section>
+    <section name="Transnational Issues">
+        <property>
             <name>Disputes - international</name>
             <value>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in
                 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to
@@ -1719,13 +1706,13 @@
                 established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the
                 inhospitable Andean Southern Ice Field (Campo de Hielo Sur)
             </value>
-        </section>
-        <section>
+        </property>
+        <property>
             <name>Illicit drugs</name>
             <value>transshipment country for cocaine destined for Europe and the region; some money laundering activity,
                 especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic
                 cocaine consumption is rising, making Chile a significant consumer of cocaine
             </value>
-        </section>
+        </property>
     </section>
 </country>
