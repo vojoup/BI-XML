@@ -192,7 +192,8 @@
         </property>
     </section>
     <section name="People and Society">
-        <property name="Population">
+        <property>
+            <name>Population</name>
             <value>17,789,267 (July 2017 est.)</value>
             <subproperty>
                 <name>country comparison to the world</name>
