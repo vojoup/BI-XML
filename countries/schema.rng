@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+	<start>
+		<element name="country">
+			<attribute name="name">
+				<choice>
+					<value>Chile</value>
+					<value>Bulgaria</value>
+					<value>Georgia</value>
+				</choice>
+			</attribute>
+			<oneOrMore>
+				<element name="section">
+					<attribute name="name"/>
+					<oneOrMore>
+						<element name="property">
+							<ref name="name"/>
+							<optional>
+								<ref name="value"/>
+							</optional>
+							<choice>
+								<zeroOrMore>
+									<element name="subproperty">
+										<ref name="name"/>
+										<optional>
+											<ref name="value"/>
+										</optional>
+									</element>
+								</zeroOrMore>
+							</choice>
+						</element>
+					</oneOrMore>
+				</element>
+			</oneOrMore>
+		</element>
+	</start>
+	<define name="name">
+		<element name="name">
+			<text/>
+		</element>
+	</define>
+	<define name="value">
+		<element name="value">
+			<text/>
+		</element>
+	</define>
+</grammar>
