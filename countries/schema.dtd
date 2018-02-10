@@ -1,0 +1,15 @@
+<!ELEMENT country (section)+>
+<!ATTLIST country
+  name CDATA #REQUIRED>
+
+<!ELEMENT section (property)+>
+<!ATTLIST section
+  name CDATA #REQUIRED>
+
+<!ELEMENT property (name,value?,subproperty*)>
+
+<!ELEMENT subproperty (name,value?)>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT value (#PCDATA)>
