@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--<!DOCTYPE country SYSTEM "schema.dtd">-->
-<country name="georgia" nicename="georgia">
-    <property>
-        <name>Introduction</name>
+<country name="Georgia">
+    <section name="Introduction">
         <property>
-            <name>Background</name>
+            <name>Backgound</name>
             <value>Billionaire philanthropist Bidzina IVANISHVILI's unexpected entry into politics in October 2011
                 brought the divided opposition together under his Georgian Dream coalition, which won a majority of
                 seats in the October 2012 parliamentary elections and removed UNM from power. Conceding defeat,
@@ -20,9 +19,8 @@
                 are among the country's top foreign policy goals.
             </value>
         </property>
-    </property>
-    <property>
-        <name>Geography</name>
+    </section>
+    <section name="Geography">
         <property>
             <name>Location</name>
             <value>Southwestern Asia, bordering the Black Sea, between Turkey and Russia, with a sliver of land north of
@@ -40,48 +38,48 @@
         </property>
         <property>
             <name>Area</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>69,700 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>land</name>
                 <value>69,700 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>water</name>
                 <value>0 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>approximately 12,560 sq km, or about 18% of Georgia's area, is Russian occupied; the seized area
                     includes all of Abkhazia and the breakaway region of South Ossetia, which consists of the northern
                     part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti,
                     and part of western Mtskheta-Mtianeti
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>122</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Area - comparative</name>
             <value>slightly smaller than South Carolina; slightly larger than West Virginia</value>
-            <property>
+            <subproperty>
                 <name>Area comparison map</name>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Land boundaries</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>1,814 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>border countries (4)</name>
                 <value>Armenia 219 km, Azerbaijan 428 km, Russia 894 km, Turkey 273 km</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Coastline</name>
@@ -89,14 +87,14 @@
         </property>
         <property>
             <name>Maritime claims</name>
-            <property>
+            <subproperty>
                 <name>territorial sea</name>
                 <value>12 nm</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>exclusive economic zone</name>
                 <value>200 nm</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Climate</name>
@@ -112,14 +110,14 @@
         <property>
             <name>Elevation</name>
             <value>highest point: Mt'a Shkhara 5,193 m</value>
-            <property>
+            <subproperty>
                 <name>mean elevation</name>
                 <value>1,432 m</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elevation extremes</name>
                 <value>lowest point: Black Sea 0 m</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural resources</name>
@@ -130,18 +128,18 @@
         <property>
             <name>Land use</name>
             <value>arable land 5.8%; permanent crops 1.8%; permanent pasture 27.9%</value>
-            <property>
+            <subproperty>
                 <name>agricultural land</name>
                 <value>35.5%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>forest</name>
                 <value>39.4%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>other</name>
                 <value>25.1% (2011 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Irrigated land</name>
@@ -165,17 +163,17 @@
         </property>
         <property>
             <name>Environment - international agreements</name>
-            <property>
+            <subproperty>
                 <name>party to</name>
                 <value>Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification,
                     Endangered Species, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution,
                     Wetlands
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>but not ratified</name>
                 <value>none of the selected agreements</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Geography - note</name>
@@ -184,27 +182,26 @@
                 world; at -2,197 m it is the only known cave on earth deeper than 2,000 m
             </value>
         </property>
-    </property>
-    <property>
-        <name>People and Society</name>
+    </section>
+    <section name="People and Society">
         <property>
             <name>Population</name>
             <value>4,926,330 (July 2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>124</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Nationality</name>
-            <property>
+            <subproperty>
                 <name>noun</name>
                 <value>Georgian(s)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>adjective</name>
                 <value>Georgian</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Ethnic groups</name>
@@ -215,10 +212,10 @@
         <property>
             <name>Languages</name>
             <value>Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1%</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>Abkhaz is the official language in Abkhazia (2014 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Religions</name>
@@ -228,99 +225,99 @@
         </property>
         <property>
             <name>Age structure</name>
-            <property>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>18.08% (male 466,426/female 424,295)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>11.94% (male 310,970/female 277,434)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>40.96% (male 983,144/female 1,034,794)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>13.01% (male 286,539/female 354,247)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>16.01% (male 309,353/female 479,128) (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>population pyramid</name>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Dependency ratios</name>
-            <property>
+            <subproperty>
                 <name>total dependency ratio</name>
                 <value>50</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>youth dependency ratio</name>
                 <value>28.1</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elderly dependency ratio</name>
                 <value>21.9</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>potential support ratio</name>
                 <value>4.6 (2015 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Median age</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>38.1 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>35.3 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>40.9 years (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>61</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population growth rate</name>
             <value>-0.02% (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>198</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Birth rate</name>
             <value>12.3 births/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>162</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Death rate</name>
             <value>10.9 deaths/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>30</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Net migration rate</name>
             <value>-1.6 migrant(s)/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>150</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population distribution</name>
@@ -330,18 +327,18 @@
         </property>
         <property>
             <name>Urbanization</name>
-            <property>
+            <subproperty>
                 <name>urban population</name>
                 <value>54% of total population (2017)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>rate of urbanization</name>
                 <value>-0.09% annual rate of change (2015-20 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>data include Abkhazia and South Ossetia</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Major urban areas - population</name>
@@ -349,112 +346,112 @@
         </property>
         <property>
             <name>Sex ratio</name>
-            <property>
+            <subproperty>
                 <name>at birth</name>
                 <value>1.08 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>1.11 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>1.11 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>0.95 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>0.81 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>0.64 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>0.92 male(s)/female (2016 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>s mean age at first birth</name>
             <value>24.5 years</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data do not cover Abkhazia and South Ossetia (2014 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Maternal mortality ratio</name>
             <value>36 deaths/100,000 live births (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>108</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Infant mortality rate</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>15.2 deaths/1,000 live births</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>17.3 deaths/1,000 live births</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>12.9 deaths/1,000 live births (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>100</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Life expectancy at birth</name>
-            <property>
+            <subproperty>
                 <name>total population</name>
                 <value>76.4 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>72.3 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>80.7 years (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Total fertility rate</name>
             <value>1.76 children born/woman (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>158</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Contraceptive prevalence rate</name>
             <value>53.4%</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>percent of women aged 15-44 (2010)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Health expenditures</name>
             <value>7.4% of GDP (2014)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>69</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Physicians density</name>
@@ -467,42 +464,38 @@
         <property>
             <name>Drinking water source</name>
             <value>total: 0% of population (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Sanitation facility access</name>
             <value>total: 13.7% of population (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>AIDS - adult prevalence rate</name>
             <value>0.5% (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>61</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>AIDS</name>
             <value>12,000 (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>89</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>AIDS - deaths</name>
@@ -511,112 +504,111 @@
         <property>
             <name>Obesity - adult prevalence rate</name>
             <value>21.7% (2016)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Children under the age of 5 years underweight</name>
             <value>1.1% (2009)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>131</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Education expenditures</name>
             <value>2% of GDP (2012)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>167</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Literacy</name>
-            <property>
+            <subproperty>
                 <name>definition</name>
                 <value>age 15 and over can read and write</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>99.8%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>99.8%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>99.7% (2015 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>School life expectancy (primary to tertiary education)</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>15 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>15 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>16 years (2015)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>youth ages 15-24</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>35.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>28.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>30.8% (2015 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>23</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Government</name>
+    </section>
+    <section name="Government">
         <property>
             <name>Country name</name>
-            <property>
+            <subproperty>
                 <name>conventional long form</name>
                 <value>none</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>conventional short form</name>
                 <value>Georgia</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>local long form</name>
                 <value>none</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>local short form</name>
                 <value>Sak'art'velo</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>former</name>
                 <value>Georgian Soviet Socialist Republic</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>etymology</name>
                 <value>the Western name may derive from the Persian designation "gurgan" meaning "Land of the Wolves";
                     the native name "Sak'art'velo" means "Land of the Kartvelians" and refers to the core central
                     Georgian region of Kartli
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Government type</name>
@@ -624,52 +616,52 @@
         </property>
         <property>
             <name>Capital</name>
-            <property>
+            <subproperty>
                 <name>name</name>
                 <value>Tbilisi</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>geographic coordinates</name>
                 <value>41 41 N, 44 50 E</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>time difference</name>
                 <value>UTC+4 (9 hours ahead of Washington, DC, during Standard Time)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Administrative divisions</name>
             <value>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy
                 respubliki, singular - avtom respublika)
             </value>
-            <property>
+            <subproperty>
                 <name>regions</name>
                 <value>Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti,
                     Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South
                     Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and
                     Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>city</name>
                 <value>Tbilisi</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>autonomous republics</name>
                 <value>Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri
                     Respublika (Bat'umi)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note 1</name>
                 <value>the administrative centers of the two autonomous republics are shown in parentheses</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note 2</name>
                 <value>the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of
                     Georgia
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Independence</name>
@@ -685,20 +677,20 @@
         </property>
         <property>
             <name>Constitution</name>
-            <property>
+            <subproperty>
                 <name>history</name>
                 <value>previous 1921, 1978 (based on 1977 Soviet Union constitution); latest approved 24 August 1995,
                     effective 17 October 1995
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>amendments</name>
                 <value>proposed as a draft law supported by more than one-half of the Parliament membership or by
                     petition of at least 200,000 voters; passage requires support by at least three-fourths of the
                     Parliament membership in two successive sessions three months apart and the signature and
                     promulgation by the president of Georgia; amended several times, last in 2017 (2018)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Legal system</name>
@@ -710,22 +702,22 @@
         </property>
         <property>
             <name>Citizenship</name>
-            <property>
+            <subproperty>
                 <name>citizenship by birth</name>
                 <value>no</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>citizenship by descent only</name>
                 <value>at least one parent must be a citizen of Georgia</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>dual citizenship recognized</name>
                 <value>no</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>residency requirement for naturalization</name>
                 <value>10 years</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Suffrage</name>
@@ -733,76 +725,76 @@
         </property>
         <property>
             <name>Executive branch</name>
-            <property>
+            <subproperty>
                 <name>chief of state</name>
                 <value>President Giorgi MARGVELASHVILI (since 17 November 2013)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>head of government</name>
                 <value>Prime Minister Giorgi KVIRIKASHVILI (since 30 December 2015); First Deputy Prime Minister Dimitry
                     KUMSISHVILI
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>cabinet</name>
                 <value>Cabinet of Ministers</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>appointments</name>
                 <value>president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year
                     term (eligible for a second term); election last held on 27 October 2013 (next to be held in October
                     2018); prime minister nominated by Parliament, appointed by the president
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>Giorgi MARGVELASHVILI elected president in first round; percent of vote - Giorgi MARGVELASHVILI
                     (independent), 62.1%, Davit BAKRADZE (UNM) 21.7%, Nino BURJANADZE 10.2%, other 6%
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Legislative branch</name>
-            <property>
+            <subproperty>
                 <name>description</name>
                 <value>unicameral Parliament or Sakartvelos Parlamenti (150 seats; 77 members directly elected in a
                     single nationwide constituency by proportional representation vote and 73 directly elected in
                     single-seat constituencies by simple majority vote; members serve 4-year terms)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elections</name>
                 <value>last held on 8 October and 30 October 2016 (next to be held in 2020)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>percent of vote by party - Georgian Dream 48.7%, UNM 27.1%, Alliance of Patriots 5%, other 19.2%;
                     seats by party - Georgian Dream 115, UNM 27, Alliance of Patriots 6, IWSG 1, independent 1; note -
                     European Georgia split from UNM in January 2017 taking 20 of 27 parliamentary members
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Judicial branch</name>
-            <property>
+            <subproperty>
                 <name>highest court(s)</name>
                 <value>Supreme Court (organized into several specialized judicial chambers; number of judges determined
                     by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and
                     Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>judge selection and term of office</name>
                 <value>Supreme Court judges nominated by the president and appointed by the Parliament; judges serve not
                     less than 10-year terms; Constitutional Court judges appointed by the president following candidate
                     selection by the Justice Council of Georgia, a 12-member consultative body of high-level judges and
                     presidential and parliamentary appointees; judges appointed for 10-year terms
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subordinate courts</name>
                 <value>Courts of Appeal; regional (town) and district courts</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Political parties and leaders</name>
@@ -810,10 +802,10 @@
         </property>
         <property>
             <name>Political pressure groups and leaders</name>
-            <property>
+            <subproperty>
                 <name>other</name>
                 <value>separatists in the Russian-occupied regions of Abkhazia and South Ossetia</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>International organization participation</name>
@@ -825,49 +817,49 @@
         </property>
         <property>
             <name>Diplomatic representation in the US</name>
-            <property>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador David BAKRADZE (since 18 January 2017)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>chancery</name>
                 <value>1824 R Street NW, Washington, DC 20009</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[1] (202) 387-2390</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[1] (202) 387-0864</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>consulate(s) general</name>
                 <value>New York</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Diplomatic representation from the US</name>
-            <property>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador Ian C. KELLY (since 17 September 2015)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>embassy</name>
                 <value>11 George Balanchine Street, T'bilisi 0131</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>mailing address</name>
                 <value>7060 T'bilisi Place, Washington, DC 20521-7060</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[995] (32) 227-70-00</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[995] (32) 253-23-10</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Flag description</name>
@@ -883,24 +875,23 @@
         </property>
         <property>
             <name>National anthem</name>
-            <property>
+            <subproperty>
                 <name>name</name>
                 <value>"Tavisupleba" (Liberty)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>music</name>
                 <value>Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMADSE)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>adopted 2004; after the Rose Revolution, a new anthem with music based on the operas "Abesalom da
                     Eteri" and "Daisi" was adopted
                 </value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Economy</name>
+    </section>
+    <section name="Economy">
         <property>
             <name>Economy - overview</name>
             <value>The country is pinning its hopes for renewed growth on a continued effort to liberalize the economy
@@ -921,14 +912,14 @@
         <property>
             <name>GDP (purchasing power parity)</name>
             <value>$36.81 billion (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>121</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>GDP (official exchange rate)</name>
@@ -937,72 +928,72 @@
         <property>
             <name>GDP - real growth rate</name>
             <value>2.9% (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>65</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>GDP - per capita (PPP)</name>
             <value>$9,900 (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>137</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Gross national saving</name>
             <value>20.1% of GDP (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>77</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>by end use</name>
-            <property>
+            <subproperty>
                 <name>household consumption</name>
                 <value>63.4%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>government consumption</name>
                 <value>18.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>investment in fixed capital</name>
                 <value>29.7%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>investment in inventories</name>
                 <value>3.4%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>exports of goods and services</name>
                 <value>52.5%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>imports of goods and services</name>
                 <value>-67.6% (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>by sector of origin</name>
-            <property>
+            <subproperty>
                 <name>agriculture</name>
                 <value>9.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>23.4%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>66.2% (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Agriculture - products</name>
@@ -1017,41 +1008,41 @@
         <property>
             <name>Industrial production growth rate</name>
             <value>7% (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>27</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Labor force</name>
             <value>1.998 million (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>125</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Labor force - by occupation</name>
-            <property>
+            <subproperty>
                 <name>agriculture</name>
                 <value>55.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>8.9%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>35.5% (2006 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Unemployment rate</name>
             <value>11.8% (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>147</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population below poverty line</name>
@@ -1059,65 +1050,65 @@
         </property>
         <property>
             <name>Household income or consumption by percentage share</name>
-            <property>
+            <subproperty>
                 <name>lowest 10%</name>
                 <value>2%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>highest 10%</name>
                 <value>31.3% (2008)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Distribution of family income - Gini index</name>
             <value>46 (2011)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>62</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Budget</name>
-            <property>
+            <subproperty>
                 <name>revenues</name>
                 <value>$4.26 billion</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>expenditures</name>
                 <value>$4.852 billion (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Taxes and other revenues</name>
             <value>28% of GDP (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>96</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>) or deficit (-)</name>
             <value>-3.9% of GDP (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>142</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Public debt</name>
             <value>44.5% of GDP (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data cover general government debt, and includes debt instruments issued (or owned) by government
                     entities other than the treasury; the data include treasury debt held by foreign entities; the data
                     include debt issued by subnational entities; Georgia does not maintain intra-governmental debt or
                     social funds
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>119</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Fiscal year</name>
@@ -1126,79 +1117,79 @@
         <property>
             <name>Inflation rate (consumer prices)</name>
             <value>2.1% (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>184</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Central bank discount rate</name>
             <value>7% (23 September 2015)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>this is the Refinancing Rate, the key monetary policy rate of the National Bank of Georgia
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>57</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Commercial bank prime lending rate</name>
             <value>12.62% (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>72</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of narrow money</name>
             <value>$2.389 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>129</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of broad money</name>
             <value>$2.454 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>148</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of domestic credit</name>
             <value>$7.753 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>113</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Market value of publicly traded shares</name>
             <value>$795.7 million (31 December 2011 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>105</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Current account balance</name>
             <value>-$1.91 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>154</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exports</name>
             <value>$2.831 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>121</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exports - commodities</name>
@@ -1213,10 +1204,10 @@
         <property>
             <name>Imports</name>
             <value>$6.64 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>108</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Imports - commodities</name>
@@ -1231,287 +1222,285 @@
         <property>
             <name>Reserves of foreign exchange and gold</name>
             <value>$2.756 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>108</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Debt - external</name>
             <value>$14.08 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>105</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of direct foreign investment - at home</name>
             <value>$14.66 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>87</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of direct foreign investment - abroad</name>
             <value>$2.185 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>79</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exchange rates</name>
             <value>1.7657 (2013 est.)</value>
         </property>
-    </property>
-    <property>
-        <name>Energy</name>
+    </section>
+    <section name="Energy">
         <property>
             <name>Electricity access</name>
-            <property>
+            <subproperty>
                 <name>electrification - total population</name>
                 <value>100% (2016)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - production</name>
             <value>11.57 billion kWh (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>94</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - consumption</name>
             <value>12.44 billion kWh (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - exports</name>
             <value>560 million kWh (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>64</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - imports</name>
             <value>478.9 million kWh (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>81</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - installed generating capacity</name>
             <value>4.28 million kW (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>84</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from fossil fuels</name>
             <value>36.2% of total installed capacity (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>173</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from nuclear fuels</name>
             <value>0% of total installed capacity (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>96</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from hydroelectric plants</name>
             <value>63.8% of total installed capacity (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>24</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from other renewable sources</name>
             <value>0% of total installed capacity (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>183</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - production</name>
             <value>400 bbl/day (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>94</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - exports</name>
             <value>1,002 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>73</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - imports</name>
             <value>200 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>81</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - proved reserves</name>
             <value>35 million bbl (1 January 2017 es)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>83</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - production</name>
             <value>0 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>148</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - consumption</name>
             <value>23,000 bbl/day (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>135</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - exports</name>
             <value>283.1 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>116</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - imports</name>
             <value>23,910 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>111</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - production</name>
             <value>10 million cu m (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>95</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - consumption</name>
             <value>2.18 billion cu m (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - exports</name>
             <value>0 cu m (2013 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>109</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - imports</name>
             <value>1.26 billion cu m (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>57</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - proved reserves</name>
             <value>8.495 billion cu m (1 January 2017 es)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Carbon dioxide emissions from consumption of energy</name>
             <value>7 million Mt (2013 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>118</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Communications</name>
+    </section>
+    <section name="Communications">
         <property>
             <name>Telephones - fixed lines</name>
-            <property>
+            <subproperty>
                 <name>total subscriptions</name>
                 <value>831,346</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>17 (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>73</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Telephones - mobile cellular</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>5,532,701</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>112 (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>114</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Telephone system</name>
-            <property>
+            <subproperty>
                 <name>general assessment</name>
                 <value>fixed-line telecommunications network has limited coverage outside Tbilisi; multiple
                     mobile-cellular providers provide services to an increasing subscribership throughout the country
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>domestic</name>
                 <value>cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 110 per
                     100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>international</name>
                 <value>country code - 995; the Georgia-Russia fiber-optic submarine cable provides connectivity to
                     Russia; international service is available by microwave, landline, and satellite through the Moscow
                     switch; international electronic mail and telex service are available (2015)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Broadcast media</name>
@@ -1531,40 +1520,39 @@
         </property>
         <property>
             <name>Internet users</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>2,464,107</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>percent of population</name>
                 <value>50.0% (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>91</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Transportation</name>
+    </section>
+    <section name="Transportation">
         <property>
             <name>National air transport system</name>
-            <property>
+            <subproperty>
                 <name>number of registered air carriers</name>
                 <value>5</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>inventory of registered aircraft operated by air carriers</name>
                 <value>13</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>annual passenger traffic on registered air carriers</name>
                 <value>232,263</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>annual freight traffic on registered air carriers</name>
                 <value>185,040 mt-km (2015)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Civil aircraft registration country code prefix</name>
@@ -1573,56 +1561,56 @@
         <property>
             <name>Airports</name>
             <value>22 (2013)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>135</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Airports - with paved runways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>18</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>1</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>7</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>437 m</name>
                 <value>3</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>523 m</name>
                 <value>5</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>2 (2017)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Airports - with unpaved runways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>4</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>437 m</name>
                 <value>1</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>523 m</name>
                 <value>2</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>1 (2013)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Heliports</name>
@@ -1634,82 +1622,81 @@
         </property>
         <property>
             <name>Railways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>1,363 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>broad gauge</name>
                 <value>1,326 km 1.520-m gauge (1,251 km electrified)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>narrow gauge</name>
                 <value>37 km 0.912-m gauge (37 km electrified) (2014)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>82</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Roadways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>19,109 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>paved</name>
                 <value>19,109 km (includes 69 km of expressways) (2010)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>113</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Merchant marine</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>84</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>by type</name>
                 <value>bulk carrier 1, general cargo 24, oil tanker 2, other 57 (2017)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>90</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Ports and terminals</name>
-            <property>
+            <subproperty>
                 <name>major seaport(s)</name>
                 <value>Black Sea - Bat'umi, P'ot'i</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Military and Security</name>
+    </section>
+    <section name="Military and Security">
         <property>
             <name>Military expenditures</name>
             <value>3.1% of GDP (2012)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>27</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Military branches</name>
             <value>Georgian Armed Forces: Land Forces (include Air and Air Defense Forces); separatist Abkhazia Armed
                 Forces: Ground Forces, Air Forces; separatist South Ossetia Armed Forces
             </value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>Georgian naval forces have been incorporated into the Coast Guard, which is part of the Ministry
                     of Internal Affairs rather than the Ministry of Defense (2015)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Military service age and obligation</name>
@@ -1717,9 +1704,8 @@
                 obligation is 12 months (2017)
             </value>
         </property>
-    </property>
-    <property>
-        <name>Transnational Issues</name>
+    </section>
+    <section name="Transnational Issues">
         <property>
             <name>Disputes - international</name>
             <value>Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in
@@ -1728,17 +1714,17 @@
         </property>
         <property>
             <name>Refugees and internally displaced persons</name>
-            <property>
+            <subproperty>
                 <name>IDPs</name>
                 <value>208,000 (displaced in the 1990s as a result of armed conflict in the breakaway republics of
                     Abkhazia and South Ossetia; displaced in 2008 by fighting between Georgia and Russia over South
                     Ossetia) (2016)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>stateless persons</name>
                 <value>250 (2016)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Illicit drugs</name>
@@ -1746,5 +1732,5 @@
                 transshipment point for opiates via Central Asia to Western Europe and Russia
             </value>
         </property>
-    </property>
+    </section>
 </country>
