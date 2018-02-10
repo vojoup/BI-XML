@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--<!DOCTYPE country SYSTEM "schema.dtd">-->
-<country name="bulgaria" nicename="bulgaria">
-    <property>
-        <name>Introduction</name>
+<country name="Bulgaria">
+    <section name="Introduction">
         <property>
             <name>Background</name>
             <value>The Bulgars, a Central Asian Turkic tribe, merged with the local Slavic inhabitants in the late 7th
@@ -16,9 +15,8 @@
                 inflation, unemployment, corruption, and crime. The country joined NATO in 2004 and the EU in 2007.
             </value>
         </property>
-    </property>
-    <property>
-        <name>Geography</name>
+    </section>
+    <section name="Geography">
         <property>
             <name>Location</name>
             <value>Southeastern Europe, bordering the Black Sea, between Romania and Turkey</value>
@@ -33,22 +31,22 @@
         </property>
         <property>
             <name>Area</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>110,879 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>land</name>
                 <value>108,489 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>water</name>
                 <value>2,390 sq km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>106</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Area - comparative</name>
@@ -56,14 +54,14 @@
         </property>
         <property>
             <name>Land boundaries</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>1,806 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>border countries (5)</name>
                 <value>Greece 472 km, Macedonia 162 km, Romania 605 km, Serbia 344 km, Turkey 223 km</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Coastline</name>
@@ -71,18 +69,18 @@
         </property>
         <property>
             <name>Maritime claims</name>
-            <property>
+            <subproperty>
                 <name>territorial sea</name>
                 <value>12 nm</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>contiguous zone</name>
                 <value>24 nm</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>exclusive economic zone</name>
                 <value>200 nm</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Climate</name>
@@ -95,14 +93,14 @@
         <property>
             <name>Elevation</name>
             <value>highest point: Musala 2,925 m</value>
-            <property>
+            <subproperty>
                 <name>mean elevation</name>
                 <value>472 m</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elevation extremes</name>
                 <value>lowest point: Black Sea 0 m</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural resources</name>
@@ -111,18 +109,18 @@
         <property>
             <name>Land use</name>
             <value>arable land 29.9%; permanent crops 1.5%; permanent pasture 15.5%</value>
-            <property>
+            <subproperty>
                 <name>agricultural land</name>
                 <value>46.9%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>forest</name>
                 <value>36.7%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>other</name>
                 <value>16.4% (2011 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Irrigated land</name>
@@ -147,7 +145,7 @@
         </property>
         <property>
             <name>Environment - international agreements</name>
-            <property>
+            <subproperty>
                 <name>party to</name>
                 <value>Air Pollution, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air
                     Pollution-Sulfur 85, Air Pollution-Sulfur 94, Air Pollution-Volatile Organic Compounds,
@@ -156,11 +154,11 @@
                     Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Ozone Layer Protection, Ship
                     Pollution, Wetlands
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>but not ratified</name>
                 <value>none of the selected agreements</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Geography - note</name>
@@ -168,39 +166,38 @@
                 Asia
             </value>
         </property>
-    </property>
-    <property>
-        <name>People and Society</name>
+    </section>
+    <section name="People and Society">
         <property>
             <name>Population</name>
             <value>7,101,510 (July 2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>103</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Nationality</name>
-            <property>
+            <subproperty>
                 <name>noun</name>
                 <value>Bulgarian(s)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>adjective</name>
                 <value>Bulgarian</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Ethnic groups</name>
             <value>Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other
                 (unknown) 10% (2011 est.)
             </value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>Romani populations are usually underestimated in official statistics and may represent 9–11% of
                     Bulgaria's population
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Languages</name>
@@ -215,99 +212,99 @@
         </property>
         <property>
             <name>Age structure</name>
-            <property>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>14.58% (male 532,924/female 502,277)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>9.58% (male 354,872/female 325,538)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>43.21% (male 1,576,980/female 1,491,489)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>13.35% (male 445,412/female 502,924)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>19.28% (male 554,486/female 814,608) (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>population pyramid</name>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Dependency ratios</name>
-            <property>
+            <subproperty>
                 <name>total dependency ratio</name>
                 <value>51.7</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>youth dependency ratio</name>
                 <value>21.2</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elderly dependency ratio</name>
                 <value>30.5</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>potential support ratio</name>
                 <value>3.3 (2015 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Median age</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>42.7 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>40.9 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>44.7 years (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>24</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population growth rate</name>
             <value>-0.61% (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>226</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Birth rate</name>
             <value>8.7 births/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>212</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Death rate</name>
             <value>14.5 deaths/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>3</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Net migration rate</name>
             <value>-0.3 migrant(s)/1,000 population (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>114</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population distribution</name>
@@ -317,14 +314,14 @@
         </property>
         <property>
             <name>Urbanization</name>
-            <property>
+            <subproperty>
                 <name>urban population</name>
                 <value>74.6% of total population (2017)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>rate of urbanization</name>
                 <value>-0.4% annual rate of change (2015-20 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Major urban areas - population</name>
@@ -332,34 +329,34 @@
         </property>
         <property>
             <name>Sex ratio</name>
-            <property>
+            <subproperty>
                 <name>at birth</name>
                 <value>1.06 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>0-14 years</name>
                 <value>1.06 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>15-24 years</name>
                 <value>1.09 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>25-54 years</name>
                 <value>1.06 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>55-64 years</name>
                 <value>0.88 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>65 years and over</name>
                 <value>0.69 male(s)/female</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>0.95 male(s)/female (2016 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>s mean age at first birth</name>
@@ -368,72 +365,72 @@
         <property>
             <name>Maternal mortality ratio</name>
             <value>11 deaths/100,000 live births (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>146</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Infant mortality rate</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>8.4 deaths/1,000 live births</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>9.5 deaths/1,000 live births</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>7.3 deaths/1,000 live births (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>149</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Life expectancy at birth</name>
-            <property>
+            <subproperty>
                 <name>total population</name>
                 <value>74.7 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>71.4 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>78.2 years (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>120</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Total fertility rate</name>
             <value>1.46 children born/woman (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>202</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Contraceptive prevalence rate</name>
             <value>69.2%</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>percent of women age 20-49 (2007)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Health expenditures</name>
             <value>8.4% of GDP (2014)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>50</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Physicians density</name>
@@ -446,26 +443,22 @@
         <property>
             <name>Drinking water source</name>
             <value>total: 0.6% of population (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Sanitation facility access</name>
             <value>total: 14% of population (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>improved</name>
-                <value></value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>unimproved</name>
-                <value></value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>AIDS - adult prevalence rate</name>
@@ -474,10 +467,10 @@
         <property>
             <name>AIDS</name>
             <value>3,500 (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>109</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>AIDS - deaths</name>
@@ -486,97 +479,96 @@
         <property>
             <name>Obesity - adult prevalence rate</name>
             <value>25% (2016)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>53</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Education expenditures</name>
             <value>4.1% of GDP (2013)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>108</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Literacy</name>
-            <property>
+            <subproperty>
                 <name>definition</name>
                 <value>age 15 and over can read and write</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>total population</name>
                 <value>98.4%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>98.7%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>98.1% (2015 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>School life expectancy (primary to tertiary education)</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>15 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>15 years</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>15 years (2015)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>youth ages 15-24</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>21.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>male</name>
                 <value>21.2%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>female</name>
                 <value>22.3% (2015 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>30</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Government</name>
+    </section>
+    <section name="Government">
         <property>
             <name>Country name</name>
-            <property>
+            <subproperty>
                 <name>conventional long form</name>
                 <value>Republic of Bulgaria</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>conventional short form</name>
                 <value>Bulgaria</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>local long form</name>
                 <value>Republika Bulgaria</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>local short form</name>
                 <value>Bulgaria</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>etymology</name>
                 <value>named after the Bulgar tribes who settled the lower Balkan region in the 7th century A.D.</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Government type</name>
@@ -584,22 +576,22 @@
         </property>
         <property>
             <name>Capital</name>
-            <property>
+            <subproperty>
                 <name>name</name>
                 <value>Sofia</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>geographic coordinates</name>
                 <value>42 41 N, 23 19 E</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>time difference</name>
                 <value>UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>daylight saving time</name>
                 <value>+1hr, begins last Sunday in March; ends last Sunday in October</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Administrative divisions</name>
@@ -621,11 +613,11 @@
         </property>
         <property>
             <name>Constitution</name>
-            <property>
+            <subproperty>
                 <name>history</name>
                 <value>several previous; latest drafted between late 1990 and early 1991, adopted 13 July 1991</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>amendments</name>
                 <value>proposed by the National Assembly or by the president of the republic; passage requires
                     three-fourths majority vote of National Assembly members in three ballots; signed by the National
@@ -634,7 +626,7 @@
                     including those affecting basic civil rights and national sovereignty; passage requires at least
                     two-thirds majority vote in each of several readings; amended several times, last in 2015 (2016)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Legal system</name>
@@ -646,22 +638,22 @@
         </property>
         <property>
             <name>Citizenship</name>
-            <property>
+            <subproperty>
                 <name>citizenship by birth</name>
                 <value>no</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>citizenship by descent only</name>
                 <value>at least one parent must be a citizen of Bulgaria</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>dual citizenship recognized</name>
                 <value>yes</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>residency requirement for naturalization</name>
                 <value>5 years</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Suffrage</name>
@@ -669,23 +661,23 @@
         </property>
         <property>
             <name>Executive branch</name>
-            <property>
+            <subproperty>
                 <name>chief of state</name>
                 <value>President Rumen RADEV (since 22 January 2017); Vice President Iliana YOTOVA (since 22 January
                     2017)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>head of government</name>
                 <value>Prime Minister Boyko BORISSOV (since 4 May 2017); note - BORISSOV served 2 previous terms as
                     prime minister (27 July 2009-13 March 2013 and 7 November 2014-27 January 2017)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>cabinet</name>
                 <value>Council of Ministers nominated by the prime minister, elected by the National Assembly</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>appointments</name>
                 <value>president and vice president elected on the same ballot by absolute majority popular vote in 2
                     rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13
@@ -693,45 +685,45 @@
                     elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by
                     the National Assembly
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent,
                     supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%; Boyko
                     BORISSOV (GERB) elected prime minister; National Assembly vote - 133 to 100
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Legislative branch</name>
-            <property>
+            <subproperty>
                 <name>description</name>
                 <value>unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in
                     multi-seat constituencies by proportional representation vote to serve 4-year terms)
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>elections</name>
                 <value>last held on 26 March 2017 (next to be held spring 2021)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>election results</name>
                 <value>percent of vote by party/coalition - GERB 32.7%, BSP 27.2%, United Patriots 9.1%, DPS 9%, Volya
                     4.2%, other 17.8%; seats by party/coalition - GERB 95, BSP 80, United Patriots 27, DPS 26, Volya 12
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Judicial branch</name>
-            <property>
+            <subproperty>
                 <name>highest court(s)</name>
                 <value>Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into
                     penal, civil, and commercial colleges); Supreme Administrative Court (organized in 2 colleges with
                     various panels of 5 judges each); Constitutional Court (consists of 12 justices); note -
                     Constitutional Court resides outside the judiciary
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>judge selection and term of office</name>
                 <value>Supreme Court of Cassation and Supreme Administrative judges elected by the Supreme Judicial
                     Council or SJC (consists of 25 members with extensive legal experience) and appointed by the
@@ -739,11 +731,11 @@
                     elected by the National Assembly and appointed by the president and the SJC; justices appointed for
                     9-year terms with renewal of 4 justices every 3 years
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subordinate courts</name>
                 <value>appeals courts; regional and district courts; administrative courts; courts martial</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Political parties and leaders</name>
@@ -752,10 +744,10 @@
         <property>
             <name>Political pressure groups and leaders</name>
             <value>Podkrepa Labor Confederation [Dimitar MANOLOV]</value>
-            <property>
+            <subproperty>
                 <name>other</name>
                 <value>numerous regional, ethnic, and national interest groups with various agendas</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>International organization participation</name>
@@ -767,60 +759,60 @@
         </property>
         <property>
             <name>Diplomatic representation in the US</name>
-            <property>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>chancery</name>
                 <value>1621 22nd Street NW, Washington, DC 20008</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[1] (202) 387-0174</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[1] (202) 234-7973</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>consulate(s) general</name>
                 <value>Chicago, Los Angeles, New York</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Diplomatic representation from the US</name>
-            <property>
+            <subproperty>
                 <name>chief of mission</name>
                 <value>Ambassador Eric Seth RUBIN (since 24 February 2016)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>embassy</name>
                 <value>16 Kozyak Street, Sofia 1408</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>mailing address</name>
                 <value>American Embassy Sofia, US Department of State, 5740 Sofia Place, Washington, DC 20521-5740
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>telephone</name>
                 <value>[359] (2) 937-5100</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>FAX</name>
                 <value>[359] (2) 937-5320</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Flag description</name>
             <value>three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors
                 were modified by substituting a green band (representing freedom) for the blue
             </value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>the national emblem, formerly on the hoist side of the white stripe, has been removed</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>National symbol(s)</name>
@@ -828,22 +820,21 @@
         </property>
         <property>
             <name>National anthem</name>
-            <property>
+            <subproperty>
                 <name>name</name>
                 <value>"Mila Rodino" (Dear Homeland)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>music</name>
                 <value>Tsvetan Tsvetkov RADOSLAVOV</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>adopted 1964; composed in 1885 by a student en route to fight in the Serbo-Bulgarian War</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Economy</name>
+    </section>
+    <section name="Economy">
         <property>
             <name>Economy - overview</name>
             <value>Despite a favorable investment regime, including low, flat corporate income taxes, significant
@@ -854,14 +845,14 @@
         <property>
             <name>GDP (purchasing power parity)</name>
             <value>$142.2 billion (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>77</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>GDP (official exchange rate)</name>
@@ -870,72 +861,72 @@
         <property>
             <name>GDP - real growth rate</name>
             <value>3.6% (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>GDP - per capita (PPP)</name>
             <value>$19,900 (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>data are in 2017 dollars</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>85</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Gross national saving</name>
             <value>21.1% of GDP (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>70</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>by end use</name>
-            <property>
+            <subproperty>
                 <name>household consumption</name>
                 <value>61.7%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>government consumption</name>
                 <value>15.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>investment in fixed capital</name>
                 <value>19%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>investment in inventories</name>
                 <value>0.5%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>exports of goods and services</name>
                 <value>65.5%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>imports of goods and services</name>
                 <value>-62.3% (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>by sector of origin</name>
-            <property>
+            <subproperty>
                 <name>agriculture</name>
                 <value>4.3%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>28%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>67.7% (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Agriculture - products</name>
@@ -950,45 +941,45 @@
         <property>
             <name>Industrial production growth rate</name>
             <value>4.2% (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>63</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Labor force</name>
             <value>2.581 million</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>number of employed persons (2017 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>116</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Labor force - by occupation</name>
-            <property>
+            <subproperty>
                 <name>agriculture</name>
                 <value>6.8%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>industry</name>
                 <value>26.6%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>services</name>
                 <value>66.6% (2015 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Unemployment rate</name>
             <value>7.7% (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>92</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Population below poverty line</name>
@@ -996,54 +987,54 @@
         </property>
         <property>
             <name>Household income or consumption by percentage share</name>
-            <property>
+            <subproperty>
                 <name>lowest 10%</name>
                 <value>2.2%</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>highest 10%</name>
                 <value>28.4% (2015)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Distribution of family income - Gini index</name>
             <value>35.4 (2014)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>78</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Budget</name>
-            <property>
+            <subproperty>
                 <name>revenues</name>
                 <value>$19.53 billion</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>expenditures</name>
                 <value>$20.31 billion (2017 est.)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Taxes and other revenues</name>
             <value>34.9% of GDP (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>56</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>) or deficit (-)</name>
             <value>-1.4% of GDP (2017 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>65</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Public debt</name>
             <value>29.5% of GDP (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal
                     value, outstanding at the end of the year in the following categories of government liabilities:
@@ -1051,11 +1042,11 @@
                     general government sector comprises the subsectors: central government, state government, local
                     government, and social security funds
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>165</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Fiscal year</name>
@@ -1064,80 +1055,80 @@
         <property>
             <name>Inflation rate (consumer prices)</name>
             <value>-1.3% (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>45</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Central bank discount rate</name>
             <value>0.01% (31 December 2015)</value>
-            <property>
+            <subproperty>
                 <name>note</name>
                 <value>Bulgarian National Bank (BNB) has had no independent monetary policy since the introduction of
                     the Currency Board regime in 1997; this is BNB's base interest rate
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>150</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Commercial bank prime lending rate</name>
             <value>6.41% (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>129</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of narrow money</name>
             <value>$22 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>65</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of broad money</name>
             <value>$42.84 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>66</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of domestic credit</name>
             <value>$27.56 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>82</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Market value of publicly traded shares</name>
             <value>$5.45 billion (31 December 2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>85</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Current account balance</name>
             <value>$2.201 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>35</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exports</name>
             <value>$24.96 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>65</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exports - commodities</name>
@@ -1152,10 +1143,10 @@
         <property>
             <name>Imports</name>
             <value>$27 billion (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>62</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Imports - commodities</name>
@@ -1171,290 +1162,288 @@
         <property>
             <name>Reserves of foreign exchange and gold</name>
             <value>$25.19 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>52</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Debt - external</name>
             <value>$37.99 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>72</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of direct foreign investment - at home</name>
             <value>$45.26 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>59</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Stock of direct foreign investment - abroad</name>
             <value>$4.988 billion (31 December 2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>70</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Exchange rates</name>
             <value>1.4742 (2013 est.)</value>
         </property>
-    </property>
-    <property>
-        <name>Energy</name>
+    </section>
+    <section name="Energy">
         <property>
             <name>Electricity access</name>
-            <property>
+            <subproperty>
                 <name>electrification - total population</name>
                 <value>100% (2016)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - production</name>
             <value>46.15 billion kWh (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>57</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - consumption</name>
             <value>31.79 billion kWh (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>60</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - exports</name>
             <value>14.83 billion kWh (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>14</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - imports</name>
             <value>4.25 billion kWh (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>45</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - installed generating capacity</name>
             <value>10.91 million kW (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>58</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from fossil fuels</name>
             <value>36.3% of total installed capacity (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>172</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from nuclear fuels</name>
             <value>17.3% of total installed capacity (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>11</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from hydroelectric plants</name>
             <value>30% of total installed capacity (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>72</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Electricity - from other renewable sources</name>
             <value>16.4% of total installed capacity (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>42</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - production</name>
             <value>1,000 bbl/day (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>93</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - exports</name>
             <value>0 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>101</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - imports</name>
             <value>122,800 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>39</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Crude oil - proved reserves</name>
             <value>15 million bbl (1 January 2017 es)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>89</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - production</name>
             <value>132,000 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>63</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - consumption</name>
             <value>89,000 bbl/day (2015 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>86</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - exports</name>
             <value>83,450 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>45</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Refined petroleum products - imports</name>
             <value>44,600 bbl/day (2014 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>88</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - production</name>
             <value>94 million cu m (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>83</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - consumption</name>
             <value>3.209 billion cu m (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>76</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - exports</name>
             <value>0 cu m (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>76</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - imports</name>
             <value>3.093 billion cu m (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>44</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Natural gas - proved reserves</name>
             <value>5.663 billion cu m (1 January 2017 es)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>93</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Carbon dioxide emissions from consumption of energy</name>
             <value>49.92 million Mt (2016 est.)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>60</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Communications</name>
+    </section>
+    <section name="Communications">
         <property>
             <name>Telephones - fixed lines</name>
-            <property>
+            <subproperty>
                 <name>total subscriptions</name>
                 <value>1,478,975</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>21 (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>64</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Telephones - mobile cellular</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>8,978,202</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>subscriptions per 100 inhabitants</name>
                 <value>126 (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>87</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Telephone system</name>
-            <property>
+            <subproperty>
                 <name>general assessment</name>
                 <value>inherited an extensive but antiquated telecommunications network from the Soviet era; quality has
                     improved with a modern digital trunk line now connecting switching centers in most of the regions;
                     remaining areas are connected by digital microwave radio relay
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>domestic</name>
                 <value>the Bulgaria Telecommunications Company's fixed-line monopoly terminated in 2005 in an effort to
                     upgrade fixed-line services; mobile-cellular teledensity, fostered by multiple service providers, is
                     over 125 telephones per 100 persons
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>international</name>
                 <value>country code - 359; submarine cable provides connectivity to Ukraine and Russia; a combination
                     submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia;
                     satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the
                     Atlantic and Indian Ocean regions) (2016)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Broadcast media</name>
@@ -1469,40 +1458,39 @@
         </property>
         <property>
             <name>Internet users</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>4,274,328</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>percent of population</name>
                 <value>59.8% (July 2016 est.)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>75</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Transportation</name>
+    </section>
+    <section name="Transportation">
         <property>
             <name>National air transport system</name>
-            <property>
+            <subproperty>
                 <name>number of registered air carriers</name>
                 <value>8</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>inventory of registered aircraft operated by air carriers</name>
                 <value>44</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>annual passenger traffic on registered air carriers</name>
                 <value>1,118,689</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>annual freight traffic on registered air carriers</name>
                 <value>1,583,340 mt-km (2015)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Civil aircraft registration country code prefix</name>
@@ -1511,48 +1499,48 @@
         <property>
             <name>Airports</name>
             <value>68 (2013)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>73</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Airports - with paved runways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>57</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>2</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>047 m</name>
                 <value>17</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>437 m</name>
                 <value>12</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>26 (2017)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Airports - with unpaved runways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>11</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>523 m</name>
                 <value>2</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>under 914 m</name>
                 <value>9 (2013)</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Heliports</name>
@@ -1564,86 +1552,85 @@
         </property>
         <property>
             <name>Railways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>5,114 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>standard gauge</name>
                 <value>4,989 km 1.435-m gauge (2,880 km electrified)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>narrow gauge</name>
                 <value>125 km 0.760-m gauge (2014)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>36</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Roadways</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>19,512 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>paved</name>
                 <value>19,235 km (includes 458 km of expressways)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>unpaved</name>
                 <value>277 km</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>does not include Category IV local roads (2011)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>111</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Waterways</name>
             <value>470 km (2009)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>83</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Merchant marine</name>
-            <property>
+            <subproperty>
                 <name>total</name>
                 <value>80</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>by type</name>
                 <value>bulk carrier 2, general cargo 18, oil tanker 8, other 52 (2017)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>95</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Ports and terminals</name>
-            <property>
+            <subproperty>
                 <name>major seaport(s)</name>
                 <value>Burgas, Varna (Black Sea)</value>
-            </property>
+            </subproperty>
         </property>
-    </property>
-    <property>
-        <name>Military and Security</name>
+    </section>
+    <section name="Military and Security">
         <property>
             <name>Military expenditures</name>
             <value>1.5% of GDP (2012)</value>
-            <property>
+            <subproperty>
                 <name>country comparison to the world</name>
                 <value>66</value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Military branches</name>
@@ -1657,34 +1644,33 @@
                 obligation 6-9 months (2012)
             </value>
         </property>
-    </property>
-    <property>
-        <name>Transnational Issues</name>
+    </section>
+    <section name="Transnational Issues">
         <property>
             <name>Disputes - international</name>
             <value>none</value>
         </property>
         <property>
             <name>Refugees and internally displaced persons</name>
-            <property>
+            <subproperty>
                 <name>refugees (country of origin)</name>
                 <value>15,027 (Syria) (2016)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>stateless persons</name>
                 <value>67 (2016)</value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>note</name>
                 <value>47,819 estimated refugee and migrant arrivals (January 2015 - January 2018); Bulgaria is
                     predominantly a transit country and hosts approximately 1,800 migrants and asylum seekers as of
                     September 2017
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Trafficking in persons</name>
-            <property>
+            <subproperty>
                 <name>current situation</name>
                 <value>Bulgaria is a source and, to a lesser extent, a transit and destination country for men, women,
                     and children subjected to sex trafficking and forced labor; Bulgaria is one of the main sources of
@@ -1693,8 +1679,8 @@
                     in agriculture, construction, and the service sector in Europe, Israel, and Zambia; Romanian girls
                     are also subjected to sex trafficking in Bulgaria
                 </value>
-            </property>
-            <property>
+            </subproperty>
+            <subproperty>
                 <name>tier rating</name>
                 <value>Tier 2 Watch List – Bulgaria does not fully comply with the minimum standards for the elimination
                     of trafficking; however, it is making significant efforts to do so; in 2014, authorities prosecuted
@@ -1704,7 +1690,7 @@
                     specialized services for child and adult male victims were non-existent; the government took action
                     to combat trafficking-related complicity among public officials and police officers (2015)
                 </value>
-            </property>
+            </subproperty>
         </property>
         <property>
             <name>Illicit drugs</name>
@@ -1714,5 +1700,5 @@
                 institutions
             </value>
         </property>
-    </property>
+    </section>
 </country>
