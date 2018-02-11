@@ -8,7 +8,8 @@
     </xsl:variable>
 
     <xsl:template match="countries">
-        <xsl:result-document method="html" doctype-system="about:legacy-compat" encoding="utf-8" href="output/index.html">
+        <xsl:result-document method="html" doctype-system="about:legacy-compat" encoding="utf-8"
+                             href="output/index.html">
             <html lang="en">
                 <head>
                     <title>
@@ -39,6 +40,7 @@
         <div class="nav navbar-nav">
             <a href="{@name}.html" class="btn btn-primary btn-link">
                 <xsl:value-of select="@name"/>
+                <img src="../flags/{@name}.gif" alt="{@name} flag" height="42" width="42"/>
             </a>
         </div>
     </xsl:template>
@@ -49,7 +51,9 @@
             <html lang="en">
                 <head>
                     <title>
-                        <xsl:copy-of select="$ttl"></xsl:copy-of> | <xsl:value-of select="@name"/>
+                        <xsl:copy-of select="$ttl"></xsl:copy-of>
+                        |
+                        <xsl:value-of select="@name"/>
                     </title>
                     <xsl:copy-of select="$css-import"/>
                 </head>
@@ -59,6 +63,7 @@
                             <h1>
                                 <xsl:value-of select="@name"/>
                             </h1>
+                            <img src="../flags/{@name}.gif" alt="{@name} flag"/>
                             <a href="index.html" class="btn btn-primary pull-right">Choose a different country</a>
                         </div>
                         <xsl:apply-templates select="section"/>

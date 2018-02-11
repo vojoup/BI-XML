@@ -12,6 +12,10 @@ body {
     background-color: #eeeeee;
 }
 
+img {
+    padding: 0.2em;
+}
+
 h3 {
     font-size: 1.4em;
 }
