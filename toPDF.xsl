@@ -22,6 +22,7 @@
 	<xsl:template match="country">
 		<fo:block break-after="page" color="#424242">
 			<fo:block font-weight="700" font-size="280%" margin-bottom="10mm" color="#1565C0"><xsl:value-of select="@name" /></fo:block>
+            <fo:external-graphic src="flags/{@name}.gif" />
 			<xsl:apply-templates select="section"/>
 		</fo:block>
 	</xsl:template>
@@ -53,7 +54,7 @@
 	<xsl:template match="subproperty">
 		<fo:table-row>
 			<fo:table-cell column-number="1" padding="1mm" border="1px solid #2196F3" color="#fff" background-color="#2196F3">
-				<fo:block font-weight="700"><xsl:value-of select="name/value()" /></fo:block>
+				<fo:block font-weight="700"><xsl:value-of select="name/text()" /></fo:block>
 			</fo:table-cell>
 			<fo:table-cell column-number="2" padding="1mm" border="1px solid #2196F3">
 				<fo:block><xsl:value-of select="value/text()" /></fo:block>
