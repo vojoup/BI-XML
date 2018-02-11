@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<!DOCTYPE country SYSTEM "schema.dtd">-->
+<country name="Niue">
+    <section name="Introduction">
+        <property>
+            <name>Background</name>
+            <value>Niue's remoteness, as well as cultural and linguistic differences between its Polynesian inhabitants
+                and those of the adjacent Cook Islands, has caused it to be separately administered by New Zealand. The
+                population of the island continues to drop (from a peak of 5,200 in 1966 to 1,618 in 2017) with
+                substantial emigration to New Zealand 2,400 km to the southwest.
+            </value>
+        </property>
+    </section>
+    <section name="Geography">
+        <property>
+            <name>Location</name>
+            <value>Oceania, island in the South Pacific Ocean, east of Tonga</value>
+        </property>
+        <property>
+            <name>Geographic coordinates</name>
+            <value>19 02 S, 169 52 W</value>
+        </property>
+        <property>
+            <name>Map references</name>
+            <value>Oceania</value>
+        </property>
+        <property>
+            <name>Area</name>
+            <subproperty>
+                <name>total</name>
+                <value>260 sq km</value>
+            </subproperty>
+            <subproperty>
+                <name>land</name>
+                <value>260 sq km</value>
+            </subproperty>
+            <subproperty>
+                <name>water</name>
+                <value>0 sq km</value>
+            </subproperty>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>213</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Area - comparative</name>
+            <value>1.5 times the size of Washington, DC</value>
+        </property>
+        <property>
+            <name>Land boundaries</name>
+            <value>0 km</value>
+        </property>
+        <property>
+            <name>Coastline</name>
+            <value>64 km</value>
+        </property>
+        <property>
+            <name>Maritime claims</name>
+            <subproperty>
+                <name>territorial sea</name>
+                <value>12 nm</value>
+            </subproperty>
+            <subproperty>
+                <name>exclusive economic zone</name>
+                <value>200 nm</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Climate</name>
+            <value>tropical; modified by southeast trade winds</value>
+        </property>
+        <property>
+            <name>Terrain</name>
+            <value>steep limestone cliffs along coast, central plateau</value>
+        </property>
+        <property>
+            <name>Elevation</name>
+            <value>highest point: unnamed elevation 1.4 km east of Hikutavake 80 m</value>
+            <subproperty>
+                <name>mean elevation</name>
+                <value>NA</value>
+            </subproperty>
+            <subproperty>
+                <name>elevation extremes</name>
+                <value>lowest point: Pacific Ocean 0 m</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural resources</name>
+            <value>fish, arable land</value>
+        </property>
+        <property>
+            <name>Land use</name>
+            <value>arable land 3.8%; permanent crops 11.5%; permanent pasture 3.8%</value>
+            <subproperty>
+                <name>agricultural land</name>
+                <value>19.1%</value>
+            </subproperty>
+            <subproperty>
+                <name>forest</name>
+                <value>71.2%</value>
+            </subproperty>
+            <subproperty>
+                <name>other</name>
+                <value>9.7% (2011 est.)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Irrigated land</name>
+            <value>0 sq km (2012)</value>
+        </property>
+        <property>
+            <name>Population - distribution</name>
+            <value>population distributed around the peripheral coastal areas of the island</value>
+        </property>
+        <property>
+            <name>Natural hazards</name>
+            <value>tropical cyclones</value>
+        </property>
+        <property>
+            <name>Environment - current issues</name>
+            <value>increasing attention to conservationist practices to counter loss of soil fertility from traditional
+                slash and burn agriculture
+            </value>
+        </property>
+        <property>
+            <name>Environment - international agreements</name>
+            <subproperty>
+                <name>party to</name>
+                <value>Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Law of the Sea,
+                    Ozone Layer Protection
+                </value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Geography - note</name>
+            <value>one of world's largest coral islands; the only major break in the surrounding coral reef occurs in
+                the central western part of the coast
+            </value>
+        </property>
+    </section>
+    <section name="People and Society">
+        <property>
+            <name>Population</name>
+            <value>1,618 (July 2017 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>233</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Nationality</name>
+            <subproperty>
+                <name>noun</name>
+                <value>Niuean(s)</value>
+            </subproperty>
+            <subproperty>
+                <name>adjective</name>
+                <value>Niuean</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Ethnic groups</name>
+            <value>Niuen 66.5%, part-Niuen 13.4%, non-Niuen 20.1% (includes 12% European and Asian and 8% Pacific
+                Islanders) (2011 est.)
+            </value>
+        </property>
+        <property>
+            <name>Languages</name>
+            <value>Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoan), Niuean and
+                English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)
+            </value>
+        </property>
+        <property>
+            <name>Religions</name>
+            <value>Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries
+                from the London Missionary Society) 67%, other Protestant 3% (includes Seventh Day Adventist 1%,
+                Presbyterian 1%, and Methodist 1%), Mormon 10%, Roman Catholic 10%, Jehovah's Witnesses 2%, other 6%,
+                none 2% (2011 est.)
+            </value>
+        </property>
+        <property>
+            <name>Population growth rate</name>
+            <value>-0.03% (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>201</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Population distribution</name>
+            <value>population distributed around the peripheral coastal areas of the island</value>
+        </property>
+        <property>
+            <name>Urbanization</name>
+            <subproperty>
+                <name>urban population</name>
+                <value>44% of total population (2017)</value>
+            </subproperty>
+            <subproperty>
+                <name>rate of urbanization</name>
+                <value>-0.49% annual rate of change (2015-20 est.)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Major urban areas - population</name>
+            <value>ALOFI (capital) 1,000 (2014)</value>
+        </property>
+        <property>
+            <name>Sex ratio</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>Infant mortality rate</name>
+            <subproperty>
+                <name>total</name>
+                <value>NA</value>
+            </subproperty>
+            <subproperty>
+                <name>male</name>
+                <value>NA</value>
+            </subproperty>
+            <subproperty>
+                <name>female</name>
+                <value>NA</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Life expectancy at birth</name>
+            <subproperty>
+                <name>total population</name>
+                <value>NA</value>
+            </subproperty>
+            <subproperty>
+                <name>male</name>
+                <value>NA</value>
+            </subproperty>
+            <subproperty>
+                <name>female</name>
+                <value>NA (2017 est.)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Total fertility rate</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>Health expenditures</name>
+            <value>7.4% of GDP (2014)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>68</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Physicians density</name>
+            <value>1.84 physicians/1,000 population (2008)</value>
+        </property>
+        <property>
+            <name>Drinking water source</name>
+            <value>total: 1.5% of population (2015 est.)</value>
+            <subproperty>
+                <name>improved</name>
+            </subproperty>
+            <subproperty>
+                <name>unimproved</name>
+            </subproperty>
+        </property>
+        <property>
+            <name>Sanitation facility access</name>
+            <value>total: 0% of population (2015 est.)</value>
+            <subproperty>
+                <name>improved</name>
+            </subproperty>
+            <subproperty>
+                <name>unimproved</name>
+            </subproperty>
+        </property>
+        <property>
+            <name>AIDS - adult prevalence rate</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>AIDS</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>AIDS - deaths</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>Obesity - adult prevalence rate</name>
+            <value>50% (2016)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>6</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Education expenditures</name>
+            <value>NA</value>
+        </property>
+    </section>
+    <section name="Government">
+        <property>
+            <name>Country name</name>
+            <subproperty>
+                <name>conventional long form</name>
+                <value>none</value>
+            </subproperty>
+            <subproperty>
+                <name>conventional short form</name>
+                <value>Niue</value>
+            </subproperty>
+            <subproperty>
+                <name>note</name>
+                <value>pronunciation falls between nyu-way and new-way, but not like new-wee</value>
+            </subproperty>
+            <subproperty>
+                <name>former</name>
+                <value>Savage Island</value>
+            </subproperty>
+            <subproperty>
+                <name>etymology</name>
+                <value>the origin of the name is obscure; in Niuean, the word supposedly translates as "behold the
+                    coconut"
+                </value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Dependency status</name>
+            <value>self-governing in free association with New Zealand since 1974; Niue fully responsible for internal
+                affairs; New Zealand retains responsibility for external affairs and defense; however, these
+                responsibilities confer no rights of control and are only exercised at the request of the Government of
+                Niue
+            </value>
+        </property>
+        <property>
+            <name>Government type</name>
+            <value>self-governing parliamentary democracy (Fouo Ekepule) in free association with New Zealand</value>
+        </property>
+        <property>
+            <name>Capital</name>
+            <subproperty>
+                <name>name</name>
+                <value>Alofi</value>
+            </subproperty>
+            <subproperty>
+                <name>geographic coordinates</name>
+                <value>19 01 S, 169 55 W</value>
+            </subproperty>
+            <subproperty>
+                <name>time difference</name>
+                <value>UTC-11 (6 hours behind Washington, DC, during Standard Time)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Administrative divisions</name>
+            <value>none; note - there are no first-order administrative divisions as defined by the US Government, but
+                there are 14 villages at the second order
+            </value>
+        </property>
+        <property>
+            <name>Independence</name>
+            <value>19 October 1974 (Niue became a self-governing state in free association with New Zealand)</value>
+        </property>
+        <property>
+            <name>National holiday</name>
+            <value>Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February
+                (1840)
+            </value>
+        </property>
+        <property>
+            <name>Constitution</name>
+            <value>several previous (New Zealand colonial statutes); latest 19 October 1974 (Niue Constitution Act
+                1974); amended 1992, 2007 (2016)
+            </value>
+        </property>
+        <property>
+            <name>Legal system</name>
+            <value>English common law</value>
+        </property>
+        <property>
+            <name>Suffrage</name>
+            <value>18 years of age; universal</value>
+        </property>
+        <property>
+            <name>Executive branch</name>
+            <subproperty>
+                <name>chief of state</name>
+                <value>Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand
+                    Governor General Dame Patricia Lee REDDY (since 28 September 2016); the UK and New Zealand are
+                    represented by New Zealand High Commissioner Ross ARDEN (since February 2014)
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>head of government</name>
+                <value>Premier Toke TALAGI (since 18 June 2008)</value>
+            </subproperty>
+            <subproperty>
+                <name>cabinet</name>
+                <value>Cabinet chosen by the premier</value>
+            </subproperty>
+            <subproperty>
+                <name>appointments</name>
+                <value>the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year
+                    term; election last held on 12 May 2017 (next to be held in 2020)
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>election results</name>
+                <value>Toke TALAGI reelected premier; Legislative Assembly vote - Toke TALAGI (independent) 15, O'Love
+                    JACOBSEN (independent) 5
+                </value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Legislative branch</name>
+            <subproperty>
+                <name>description</name>
+                <value>unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat
+                    constituencies by simple majority vote and 6 directly elected from the National Register or "common
+                    roll" by majority vote; members serve 3-year terms)
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>elections</name>
+                <value>last held on 6 May 2017 (next to be held in 2020)</value>
+            </subproperty>
+            <subproperty>
+                <name>election results</name>
+                <value>percent of vote by party - NA; seats by party - independent 20</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Judicial branch</name>
+            <subproperty>
+                <name>highest resident court(s)</name>
+                <value>Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee
+                    of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>judge selection and term of office</name>
+                <value>Niue chief justice appointed by the governor-general on the advice of the Cabinet and tendered by
+                    the premier; other judges appointed by the governor-general on the advice of the Cabinet and
+                    tendered by the chief justice and the minister of justice; judges serve until age 68
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>subordinate courts</name>
+                <value>High Court</value>
+            </subproperty>
+            <subproperty>
+                <name>note</name>
+                <value>Niue is a participant in the Pacific Judicial Development Program, which is designed to build
+                    governance and the rule of law in 15 Pacific island countries
+                </value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Political parties and leaders</name>
+            <value>Niue People's Action Party or NPP [Young VIVIAN]</value>
+        </property>
+        <property>
+            <name>Political pressure groups and leaders</name>
+            <value>NA</value>
+        </property>
+        <property>
+            <name>International organization participation</name>
+            <value>ACP, AOSIS, FAO, IFAD, OPCW, PIF, Sparteca, SPC, UNESCO, UPU, WHO, WIPO, WMO</value>
+        </property>
+        <property>
+            <name>Diplomatic representation in the US</name>
+            <value>none (self-governing territory in free association with New Zealand)</value>
+        </property>
+        <property>
+            <name>Diplomatic representation from the US</name>
+            <value>none (self-governing territory in free association with New Zealand)</value>
+        </property>
+        <property>
+            <name>Flag description</name>
+            <value>yellow with the flag of the UK in the upper hoist-side quadrant; the flag of the UK bears five yellow
+                five-pointed stars - a large star on a blue disk in the center and a smaller star on each arm of the
+                bold red cross; the larger star stands for Niue, the smaller stars recall the Southern Cross
+                constellation on the New Zealand flag and symbolize links with that country; yellow represents the
+                bright sunshine of Niue and the warmth and friendship between Niue and New Zealand
+            </value>
+        </property>
+        <property>
+            <name>National symbol(s)</name>
+            <value>yellow, five-pointed star; national color: yellow</value>
+        </property>
+        <property>
+            <name>National anthem</name>
+            <subproperty>
+                <name>name</name>
+                <value>"Ko e Iki he Lagi" (The Lord in Heaven)</value>
+            </subproperty>
+            <subproperty>
+                <name>music</name>
+                <value>unknown/unknown, prepared by Sioeli FUSIKATA</value>
+            </subproperty>
+            <subproperty>
+                <name>note</name>
+                <value>adopted 1974</value>
+            </subproperty>
+        </property>
+    </section>
+    <section name="Economy">
+        <property>
+            <name>Economy - overview</name>
+            <value>The island in recent years has suffered a serious loss of population because of emigration to New
+                Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the
+                International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.
+            </value>
+        </property>
+        <property>
+            <name>GDP (purchasing power parity)</name>
+            <value>$10.01 million (2003 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>229</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>GDP (official exchange rate)</name>
+            <value>$10.01 million (2003)</value>
+        </property>
+        <property>
+            <name>GDP - real growth rate</name>
+            <value>6.2% (2003 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>22</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>GDP - per capita (PPP)</name>
+            <value>$5,800 (2003 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>166</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>by sector of origin</name>
+            <subproperty>
+                <name>agriculture</name>
+                <value>23.5%</value>
+            </subproperty>
+            <subproperty>
+                <name>industry</name>
+                <value>26.9%</value>
+            </subproperty>
+            <subproperty>
+                <name>services</name>
+                <value>49.5% (2003)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Agriculture - products</name>
+            <value>coconuts, passion fruit, honey, limes, taro, yams, cassava (manioc, tapioca), sweet potatoes; pigs,
+                poultry, beef cattle
+            </value>
+        </property>
+        <property>
+            <name>Industries</name>
+            <value>handicrafts, food processing</value>
+        </property>
+        <property>
+            <name>Industrial production growth rate</name>
+            <value>NA%</value>
+        </property>
+        <property>
+            <name>Labor force</name>
+            <value>663 (2001)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>231</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Labor force - by occupation</name>
+            <subproperty>
+                <name>note</name>
+                <value>most work on family plantations; paid work exists only in government service, small industry, and
+                    the Niue Development Board
+                </value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Unemployment rate</name>
+            <value>12% (2001)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>154</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Population below poverty line</name>
+            <value>NA%</value>
+        </property>
+        <property>
+            <name>Household income or consumption by percentage share</name>
+            <subproperty>
+                <name>lowest 10%</name>
+                <value>NA%</value>
+            </subproperty>
+            <subproperty>
+                <name>highest 10%</name>
+                <value>NA%</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Budget</name>
+            <subproperty>
+                <name>revenues</name>
+                <value>$15.07 million</value>
+            </subproperty>
+            <subproperty>
+                <name>expenditures</name>
+                <value>$16.33 million (FY04/05)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>) or deficit (-)</name>
+            <value>-12.6% of GDP (FY04/05)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>212</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Fiscal year</name>
+            <value>1 April - 31 March</value>
+        </property>
+        <property>
+            <name>Inflation rate (consumer prices)</name>
+            <value>4% (2005)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>156</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Exports</name>
+            <value>$201,400 (2004 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>221</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Exports - commodities</name>
+            <value>canned coconut cream, copra, honey, vanilla, passion fruit products, pawpaws, root crops, limes,
+                footballs, stamps, handicrafts
+            </value>
+        </property>
+        <property>
+            <name>Imports</name>
+            <value>$9.038 million (2004 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>218</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Imports - commodities</name>
+            <value>food, live animals, manufactured goods, machinery, fuels, lubricants, chemicals, drugs</value>
+        </property>
+        <property>
+            <name>Debt - external</name>
+            <value>$418,000 (2002 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>203</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Exchange rates</name>
+            <value>1.2039 (2013 est.)</value>
+        </property>
+    </section>
+    <section name="Energy">
+        <property>
+            <name>Electricity - production</name>
+            <value>3 million kWh (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>217</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - consumption</name>
+            <value>2.79 million kWh (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>215</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - exports</name>
+            <value>0 kWh (2016 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>175</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - imports</name>
+            <value>0 kWh (2016 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>179</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - installed generating capacity</name>
+            <value>1,000 kW (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>215</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - from fossil fuels</name>
+            <value>100% of total installed capacity (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>14</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - from nuclear fuels</name>
+            <value>0% of total installed capacity (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>151</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - from hydroelectric plants</name>
+            <value>0% of total installed capacity (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>191</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Electricity - from other renewable sources</name>
+            <value>0% of total installed capacity (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>200</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Crude oil - production</name>
+            <value>0 bbl/day (2016 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>182</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Crude oil - exports</name>
+            <value>0 bbl/day (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>169</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Crude oil - imports</name>
+            <value>0 bbl/day (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>168</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Crude oil - proved reserves</name>
+            <value>0 bbl (1 January 2017 es)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>180</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Refined petroleum products - production</name>
+            <value>0 bbl/day (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>187</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Refined petroleum products - consumption</name>
+            <value>60 bbl/day (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>215</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Refined petroleum products - exports</name>
+            <value>0 bbl/day (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>184</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Refined petroleum products - imports</name>
+            <value>64.25 bbl/day (2014 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>212</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural gas - production</name>
+            <value>0 cu m (2013 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>175</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural gas - consumption</name>
+            <value>0 cu m (2013 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>214</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural gas - exports</name>
+            <value>0 cu m (2015 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>156</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural gas - imports</name>
+            <value>0 cu m (2013 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>162</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Natural gas - proved reserves</name>
+            <value>0 cu m (1 January 2014 es)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>177</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Carbon dioxide emissions from consumption of energy</name>
+            <value>3,520 Mt (2012 est.)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>213</value>
+            </subproperty>
+        </property>
+    </section>
+    <section name="Communications">
+        <property>
+            <name>Telephone system</name>
+            <subproperty>
+                <name>domestic</name>
+                <value>single-line (fixed line) telephone system connects all villages (and virtually all households) on
+                    island
+                </value>
+            </subproperty>
+            <subproperty>
+                <name>international</name>
+                <value>country code - 683 (2015)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Broadcast media</name>
+            <value>1 government-owned TV station with many of the programs supplied by Television New Zealand; 1
+                government-owned radio station broadcasting in AM and FM (2009)
+            </value>
+        </property>
+        <property>
+            <name>Internet country code</name>
+            <value>.nu</value>
+        </property>
+        <property>
+            <name>Internet users</name>
+            <subproperty>
+                <name>total</name>
+                <value>1,090</value>
+            </subproperty>
+            <subproperty>
+                <name>percent of population</name>
+                <value>91.6% (July 2016 est.)</value>
+            </subproperty>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>213</value>
+            </subproperty>
+        </property>
+    </section>
+    <section name="Transportation">
+        <property>
+            <name>Airports</name>
+            <value>1 (2013)</value>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>228</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Airports - with paved runways</name>
+            <subproperty>
+                <name>total</name>
+                <value>1</value>
+            </subproperty>
+            <subproperty>
+                <name>437 m</name>
+                <value>1 (2017)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Airports - with unpaved runways</name>
+            <subproperty>
+                <name>total</name>
+                <value>1</value>
+            </subproperty>
+            <subproperty>
+                <name>437 m</name>
+                <value>1 (2013)</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Roadways</name>
+            <subproperty>
+                <name>total</name>
+                <value>234 km</value>
+            </subproperty>
+            <subproperty>
+                <name>paved</name>
+                <value>210 km (2017)</value>
+            </subproperty>
+            <subproperty>
+                <name>country comparison to the world</name>
+                <value>214</value>
+            </subproperty>
+        </property>
+        <property>
+            <name>Ports and terminals</name>
+            <subproperty>
+                <name>major seaport(s)</name>
+                <value>Alofi</value>
+            </subproperty>
+        </property>
+    </section>
+    <section name="Military and Security">
+        <property>
+            <name>Military branches</name>
+            <value>no regular indigenous military forces; Police Force</value>
+        </property>
+        <property>
+            <name>Military - note</name>
+            <value>defense is the responsibility of New Zealand</value>
+        </property>
+    </section>
+    <section name="Transnational Issues">
+        <property>
+            <name>Disputes - international</name>
+            <value>none</value>
+        </property>
+    </section>
+</country>
