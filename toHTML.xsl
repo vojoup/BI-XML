@@ -66,9 +66,6 @@
                             </h1>
                             <img src="../flags/{@name}.gif" alt="{@name} flag"/>
                             <a href="index.html" class="btn btn-primary pull-right">Choose a different country</a>
-                            <ul>
-                                <li></li>
-                            </ul>
                         </div>
                         <xsl:apply-templates select="section"/>
                     </div>
