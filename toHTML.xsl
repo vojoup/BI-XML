@@ -67,15 +67,28 @@
                             <img src="../flags/{@name}.gif" alt="{@name} flag"/>
                             <a href="index.html" class="btn btn-primary pull-right">Choose a different country</a>
                         </div>
-                        <xsl:apply-templates select="section"/>
+                        <div class="navbar navbar-default navbar-static-top">
+                            <ul class="section-nav">
+                                <xsl:apply-templates select="section" mode="nav"/>
+                            </ul>
+                        </div>
+                        <xsl:apply-templates select="section" mode="default"/>
                     </div>
                 </body>
             </html>
         </xsl:result-document>
     </xsl:template>
 
-    <xsl:template match="section">
-        <div class="section">
+    <xsl:template match="section" mode="nav">
+        <li class="list-item">
+            <a href="#{@name}" class="btn btn-primary pull-right">
+                <xsl:value-of select="@name"/>
+            </a>
+        </li>
+    </xsl:template>
+
+    <xsl:template match="section" mode="default">
+        <div class="section" id="{@name}">
             <h2>
                 <xsl:value-of select="@name"/>
             </h2>
